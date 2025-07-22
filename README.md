@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bok.jpg" alt="banner" width="800"/>
+</p>
+
 ## Hi 👋, I'm Petra
 
 <h3 align="center"> Working on projects pretty much every year, say hi 🤗 </h3>

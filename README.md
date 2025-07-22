@@ -7,7 +7,7 @@
 <h3 align="center"> Working on projects pretty much every year, say hi 🤗 </h3>
 
 - 🔭 I’m currently working on final these (theme: Analysis of Usability and Accessibility of User Interface Elements)
-- 🌱 I’m currently learning PHP
+- 🌱 Currently learning PHP
 - 💬 Brainstorming ideas 
 - 👨‍💻 Open to Full Stack or BA/QA jobs
 - 📫 petra.jakopovi@gmail.com

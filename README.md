@@ -2,13 +2,14 @@
   <img src="bok.jpg" alt="banner" width="800"/>
 </p>
 
-## Hi 👋, I'm Petra
+## 👋 Hi there, I'm Petra! 🚀
 
 <h3 align="center"> Working on projects pretty much every year, say hi 🤗 </h3>
 
 - 🔭 I’m currently working on final these (theme: Analysis of Usability and Accessibility of User Interface Elements)
 - 🌱 Currently learning PHP
-- 💬 Brainstorming ideas 
+- 💬 Brainstorming ideas
+- 💡 Turning ideas into reality
 - 👨‍💻 Open to Full Stack or BA/QA jobs
 - 📫 petra.jakopovi@gmail.com
 - ⚡ Fun fact: I'm a deaf person with million hobbies
@@ -42,8 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
-### Projekti:
-- [Odaks-app](https://github.com/PetriciaLee/odaks-app) - Privatni projekt za LUMEN Development natjecanje 2025.
-- [KingICT Ljetna akademija](https://github.com/PetriciaLee/KingICT.Academy2023) - Privatni projekt za Ljetnu akademiju 2023. King ICT-a.
+### ⚡ Featured Software & Data Projects
+- [Odaks-app](https://github.com/PetriciaLee/odaks-app) - Private project for LUMEN Development hackathon 2025.
+- [KingICT Ljetna akademija](https://github.com/PetriciaLee/KingICT.Academy2023) - Private project for Summer academy 2023. King ICT (Internship).
 ---
 

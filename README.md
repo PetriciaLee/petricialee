@@ -16,7 +16,7 @@
 - 📷 Enthusiast in digital image and video editing, focusing on aesthetics and adding visual effects.
 
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📬 Let's Connect:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank">
@@ -42,8 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
-
-### ⚡ Featured Software & Data Projects
+---
+## ⚡ Featured Software & Data Projects
 - [Odaks-app](https://github.com/PetriciaLee/odaks-app) - Private project for LUMEN Development hackathon 2025.
 - [KingICT Ljetna akademija](https://github.com/PetriciaLee/KingICT.Academy2023) - Private project for Summer academy 2023. King ICT (Internship).
 ---

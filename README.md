@@ -77,12 +77,12 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ---
 
 ## ⚡ Featured Software & Data Projects
-- Music Catalog - Private project for study, currently in progress.
+- [Music Catalog](https://github.com/PetriciaLee/music-catalog) - Private project for study, currently in progress.
 - [Odaks-app](https://github.com/PetriciaLee/odaks-app) - Private project for LUMEN Development hackathon 2025.
 - [KingICT Ljetna akademija](https://github.com/PetriciaLee/KingICT.Academy2023) - Private project for Summer academy 2023. King ICT (Internship).
 ---
 
-## 🚀 Goals for 2025
+## 🚀 Goals for 2025/26
 ✅ Build scalable full-stack applications with React, Vue, Node.js <br>
 ✅ Expand expertise in DevOps & CI/CD pipelines <br>
 ✅ Explore AI & ML integration in software development 

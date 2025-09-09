@@ -78,10 +78,10 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 <h3> Other Tools </h3>
 <p align="left">
-- <a href="https://www.atlassian.com/software/jira" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" data-canonical-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" style="max-width: 100%; height: auto; max-height: 40px;"></a> [Jira] - Project Management; Project Tracking Software
-- <a href="https://trello.com/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" data-canonical-src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" style="max-width: 100%; height: auto; max-height: 40px;"></a> [Trello] - Management, organization, productivity
-- <a href="https://excel.cloud.microsoft/hr-hr/"><img src="https://w7.pngwing.com/pngs/878/917/png-transparent-microsoft-excel-icon.png" data-canonical-src="https://w7.pngwing.com/pngs/878/917/png-transparent-microsoft-excel-icon.png" style="max-width: 100%; height: auto; max-height: 40px;"></a> [Microsoft Excel] - Data Analysis, Calculations, Data management, Visualization
-- Soon: Python, Jupyter Notebooks, SQL, Azure, Tableau, Google Analytics, Apache Hadoop, Apache Spark, R, Power BI
+<a href="https://www.atlassian.com/software/jira" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" data-canonical-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" style="max-width: 100%; height: auto; max-height: 40px;"></a> [Jira] - Project Management; Project Tracking Software
+<a href="https://trello.com/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" data-canonical-src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" style="max-width: 100%; height: auto; max-height: 40px;"></a> [Trello] - Management, organization, productivity
+<a href="https://excel.cloud.microsoft/hr-hr/"><img src="https://w7.pngwing.com/pngs/878/917/png-transparent-microsoft-excel-icon.png" data-canonical-src="https://w7.pngwing.com/pngs/878/917/png-transparent-microsoft-excel-icon.png" style="max-width: 100%; height: auto; max-height: 40px;"></a> [Microsoft Excel] - Data Analysis, Calculations, Data management, Visualization
+<!--  Soon: Python, Jupyter Notebooks, SQL, Azure, Tableau, Google Analytics, Apache Hadoop, Apache Spark, R, Power BI -->
 
 
 ---

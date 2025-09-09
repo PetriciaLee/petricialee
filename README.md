@@ -75,16 +75,31 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 <a href="https://picsart.com/" rel="nofollow"><img src="https://play-lh.googleusercontent.com/gRheGVxu9Ygc4lIc71bVSgjGNiZ8d-nraBqGFRm1SV-2CsD-byiqzt_8m8y8tJqyLXc" height="40" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 </p>
 
-
-<h3> Other Tools </h3>
 <p align="left">
-  <a href="https://picsart.com/" rel="nofollow"><img src="https://play-lh.googleusercontent.com/gRheGVxu9Ygc4lIc71bVSgjGNiZ8d-nraBqGFRm1SV-2CsD-byiqzt_8m8y8tJqyLXc" height="40" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-
-<a href="https://www.atlassian.com/software/jira" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" data-canonical-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" style="max-width: 100%; height: auto; max-height: 40px;"></a> [Jira] - Project Management; Project Tracking Software
-<a href="https://trello.com/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" data-canonical-src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" style="max-width: 100%; height: auto; max-height: 40px;"></a> [Trello] - Management, organization, productivity
-<a href="https://excel.cloud.microsoft/hr-hr/"><img src="https://w7.pngwing.com/pngs/878/917/png-transparent-microsoft-excel-icon.png" data-canonical-src="https://w7.pngwing.com/pngs/878/917/png-transparent-microsoft-excel-icon.png" style="max-width: 100%; height: auto; max-height: 40px;"></a> [Microsoft Excel] - Data Analysis, Calculations, Data management, Visualization
-<!--  Soon: Python, Jupyter Notebooks, SQL, Azure, Tableau, Google Analytics, Apache Hadoop, Apache Spark, R, Power BI -->
+<h3>Other Tools</h3>
+  <ul>
+    <li>
+      <a href="https://www.atlassian.com/software/jira" rel="nofollow">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" height="40" alt="Jira">
+      </a> 
+      [Jira] - Project Management; Project Tracking Software
+    </li>
+    <li>
+      <a href="https://trello.com/" rel="nofollow">
+        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" alt="Trello logo">
+      </a>
+      [Trello] - Management, organization, productivity
+    </li>
+    <li>
+      <a href="https://excel.cloud.microsoft/hr-hr/">
+        <img src="https://w7.pngwing.com/pngs/878/917/png-transparent-microsoft-excel-icon.png" height="40" alt="Microsoft Excel logo">
+      </a>
+      [Microsoft Excel] - Data Analysis, Calculations, Data management, Visualization
+    </li>
+  </ul>
 </p>
+
+<!--  Soon: Python, Jupyter Notebooks, SQL, Azure, Tableau, Google Analytics, Apache Hadoop, Apache Spark, R, Power BI -->
 
 ---
 

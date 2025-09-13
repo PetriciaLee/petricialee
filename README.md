@@ -22,8 +22,8 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 <h3 align="center"> Working on projects pretty much every year, say hi 🤗 </h3>
 
-- 🔭 I’m currently working on final these (theme: Analysis of Usability and Accessibility of User Interface Elements)
-- 🌱 Currently learning PHP
+- 🔭 I’m currently working on final thesis (theme: Analysis of Usability and Accessibility of User Interface Elements)
+- 🌱 Currently learning PHP and Java
 - 💬 Brainstorming ideas
 - 💡 Turning ideas into reality
 - 🎯 Software Developer, Quality Engineer and Data Analyst

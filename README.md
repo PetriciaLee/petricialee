@@ -80,19 +80,19 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <ul>
     <li>
       <a href="https://www.atlassian.com/software/jira" rel="nofollow">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" height="40" alt="Jira logo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" height="40" alt="Jira logo"> 
       </a> 
        [Jira] - Project Management; Project Tracking Software
     </li>
     <li>
       <a href="https://trello.com/" rel="nofollow">
-        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" alt="Trello logo">
+        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" alt="Trello logo"> 
       </a>
        [Trello] - Management, organization, productivity
     </li>
     <li>
       <a href="https://excel.cloud.microsoft/hr-hr/">
-        <img src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" height="40" alt="Microsoft Excel logo">
+        <img src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" height="40" alt="Microsoft Excel logo"> 
       </a>
        [Microsoft Excel] - Data Analysis, Calculations, Data management, Visualization
     </li>

@@ -46,9 +46,9 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
   <a href="https://www.testrail.com/" rel="nofollow"><img src="https://img.icons8.com/?size=512&id=rWQ6Qj4WSwBn&format=png" height="40" data-canonical-src="https://img.icons8.com/?size=512&id=rWQ6Qj4WSwBn&format=png" alt="TestRail" style="max-width: 100%; height: auto; max-height: 40px;"></a>  
   <a href="https://www.adobe.com/products/dreamweaver.html" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Adobe_Dreamweaver_CC_icon.svg/768px-Adobe_Dreamweaver_CC_icon.svg.png?20210519033737" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Adobe_Dreamweaver_CC_icon.svg/768px-Adobe_Dreamweaver_CC_icon.svg.png?20210519033737" alt="Adobe Dreamweaver" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-  <a href="https://notepad-plus-plus.org/" rel="nofollow"><img src="https://images.seeklogo.com/logo-png/43/2/notepad-logo-png_seeklogo-431744.png" height="40" data-canonical-src="https://images.seeklogo.com/logo-png/43/2/notepad-logo-png_seeklogo-431744.png" alt="Notepad++" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+  <a href="https://notepad-plus-plus.org/" rel="nofollow"><img src="https://freesvg.org/img/1661420472npp.png" height="40" data-canonical-src="https://freesvg.org/img/1661420472npp.png" alt="Notepad++" style="max-width: 100%; height: auto; max-height: 40px;"></a>
     <a href="https://nodejs.org/en" rel="nofollow"><img src="https://images.seeklogo.com/logo-png/27/2/node-js-logo-png_seeklogo-273749.png" height="40" data-canonical-src="https://images.seeklogo.com/logo-png/27/2/node-js-logo-png_seeklogo-273749.png" alt="NodeJS" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-     <a href="https://wordpress.com/" rel="nofollow"><img src="https://pngimg.com/d/wordpress_PNG72.png" height="40" data-canonical-src="https://pngimg.com/d/wordpress_PNG72.png" alt="WordPress" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+     <a href="https://wordpress.com/" rel="nofollow"><img src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" height="40" data-canonical-src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" alt="WordPress" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 
   
  <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -100,6 +100,23 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
         <img src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" height="40" alt="Microsoft Excel logo"> 
       </a>
        [Microsoft Excel] - Data Analysis, Calculations, Data management, Visualization
+    </li>
+    <li>
+      <a href="https://trello.com/" rel="nofollow"> [Notion]
+      </a>
+      - Management, organization, productivity
+    </li>
+    <li>
+      <a href="https://trello.com/" rel="nofollow"> [Jenkins]
+      </a>
+    </li>
+    <li>
+      <a href="https://trello.com/" rel="nofollow"> [Bitbucket]
+      </a>
+    </li>
+    <li>
+      <a href="https://trello.com/" rel="nofollow"> [Cypress]
+      </a>
     </li>
   </ul>
 </p>

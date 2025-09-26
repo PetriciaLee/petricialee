@@ -82,9 +82,14 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 <p align="left">
 <h3>Other Tools</h3>
-<p>
-      <a href="https://www.atlassian.com/software/jira" rel="nofollow">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" height="40" alt="Jira logo"> 
+<p align="left">
+ <a href="https://www.atlassian.com/software/jira" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" height="40" alt="Jira logo" </a>
+ <a href="https://www.python.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
+  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
+  </p>
+
+
+        <img src=""> 
       </a> 
       <a href="https://trello.com/" rel="nofollow">
         <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" alt="Trello logo"> 
@@ -100,7 +105,6 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
     
       <a href="https://trello.com/" rel="nofollow"> Cypress
    
-</p>
 
 <!--  Soon: Python, Jupyter Notebooks, SQL, Azure, Tableau, Google Analytics, Apache Hadoop, Apache Spark, R, Power BI -->
 

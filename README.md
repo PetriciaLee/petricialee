@@ -82,20 +82,13 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 <p align="left">
 <h3>Other Tools</h3>
-<p align="left">
- <a href="https://www.atlassian.com/software/jira" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu64dKK1CnxP4S_ttq1E9Y1p2F3WpUz88uQA&s" height="40" alt="Jira logo" </a>
- <a href="https://www.python.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
-  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
+  <p align="left">
+ <a href="https://www.atlassian.com/software/jira" rel="nofollow"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/atlassian-jira-logo.png" height="40" data-canonical-src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/atlassian-jira-logo.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>    
+ <a href="https://trello.com/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" data-canonical-src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a>   
+  <a href="https://excel.cloud.microsoft/hr-hr/" rel="nofollow"><img src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" height="40" data-canonical-src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
   </p>
 
 
-        <img src=""> 
-      </a> 
-      <a href="https://trello.com/" rel="nofollow">
-        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" alt="Trello logo"> 
-      </a>
-     <a href="https://excel.cloud.microsoft/hr-hr/">
-        <img src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" height="40" alt="Microsoft Excel logo"> </a>
      
       <a href="https://trello.com/" rel="nofollow"> Notion
     

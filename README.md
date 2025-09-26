@@ -83,22 +83,16 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 <p align="left">
 <h3>Other Tools</h3>
   <p align="left">
- <a href="https://www.atlassian.com/software/jira" rel="nofollow"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/atlassian-jira-logo.png" height="40" data-canonical-src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/atlassian-jira-logo.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>    
+ <a href="https://www.atlassian.com/software/jira" rel="nofollow"><img src="https://www.logoshape.com/wp-content/uploads/2024/08/jira-logo_logoshape.com_.png" height="40" data-canonical-src="https://www.logoshape.com/wp-content/uploads/2024/08/jira-logo_logoshape.com_.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>    
  <a href="https://trello.com/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" data-canonical-src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a>   
   <a href="https://excel.cloud.microsoft/hr-hr/" rel="nofollow"><img src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" height="40" data-canonical-src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
+ <a href="https://www.notion.com/" rel="nofollow"><img src="https://www.logoshape.com/wp-content/uploads/2024/10/notion-logo_logoshape.png" height="40" data-canonical-src="https://www.logoshape.com/wp-content/uploads/2024/10/notion-logo_logoshape.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>  
+<a href="https://www.jenkins.io/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/339px-Jenkins_logo.svg.png?20120629215426" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/339px-Jenkins_logo.svg.png?20120629215426" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a>   
+    
+  <a href="https://bitbucket.org/product/" rel="nofollow"><img src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon-thumbnail.png" height="40" data-canonical-src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon-thumbnail.png" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
+    <a href="https://www.cypress.io/" rel="nofollow"><img src="https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress.png?fit=364%2C364&ssl=1" height="40" data-canonical-src="https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress.png?fit=364%2C364&ssl=1" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
   </p>
-
-
-     
-      <a href="https://trello.com/" rel="nofollow"> Notion
     
-      <a href="https://trello.com/" rel="nofollow"> Jenkins
-     
-      <a href="https://trello.com/" rel="nofollow"> Bitbucket
-    
-      <a href="https://trello.com/" rel="nofollow"> Cypress
-   
-
 <!--  Soon: Python, Jupyter Notebooks, SQL, Azure, Tableau, Google Analytics, Apache Hadoop, Apache Spark, R, Power BI -->
 
 ---

@@ -23,7 +23,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 <h3 align="center"> Working on projects pretty much every year, say hi 🤗 </h3>
 
 - 🔭 I’m currently working on final thesis (theme: Analysis of Usability and Accessibility of User Interface Elements)
-- 🌱 Currently learning PHP and Java
+- 🌱 Currently learning PHP, C++ and Java
 - 💬 Brainstorming ideas
 - 💡 Turning ideas into reality
 - 🎯 Software Developer, Quality Engineer and Data Analyst
@@ -101,7 +101,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ---
 
 ## ⚡ Featured Software & Data Projects
-- [Music Catalog](https://github.com/PetriciaLee/music-catalog) - Solo project for study, currently in progress.
+- [Music Catalog](https://github.com/PetriciaLee/music-catalog) - Solo project (web application development, PHP).
 - [Odaks-app](https://github.com/PetriciaLee/odaks-app) - Private project for LUMEN Development hackathon 2025. (Teamwork)
 - [KingICT Ljetna akademija](https://github.com/PetriciaLee/KingICT.Academy2023) - Private project for Summer academy 2023. King ICT (Internship & Teamwork).
 ---

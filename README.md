@@ -101,7 +101,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ---
 
 ## ⚡ Featured Software & Data Projects
-- [Music Catalog](https://github.com/PetriciaLee/music-catalog) - Solo project (web application development, PHP).
+- [Music Catalog](https://github.com/PetriciaLee/music-catalog) - Solo project --> web application development (PHP).
 - [Odaks-app](https://github.com/PetriciaLee/odaks-app) - Private project for LUMEN Development hackathon 2025. (Teamwork)
 - [KingICT Ljetna akademija](https://github.com/PetriciaLee/KingICT.Academy2023) - Private project for Summer academy 2023. King ICT (Internship & Teamwork).
 ---

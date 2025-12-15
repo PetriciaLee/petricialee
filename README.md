@@ -26,7 +26,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 - 🌱 Currently learning PHP, C++ and Java
 - 💬 Brainstorming ideas
 - 💡 Turning ideas into reality
-- 🎯 Software Developer, Quality Engineer and Data Analyst
+- 🎯 Software Developer, Quality Engineer and Front-end developer
 - 👨‍💻 Open to Full Stack or BA/QA jobs
 - 📫 petra.jakopovi@gmail.com
 - ⚡ Fun fact: I'm a deaf person with million hobbies
@@ -106,7 +106,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 - [KingICT Ljetna akademija](https://github.com/PetriciaLee/KingICT.Academy2023) - Private project for Summer academy 2023. King ICT (Internship & Teamwork).
 ---
 
-## 🚀 Goals for 2025/26
+## 🚀 Goals for 2026
 ✅ Build scalable full-stack applications with React, Vue, Node.js <br>
 ✅ Expand expertise in DevOps & CI/CD pipelines <br>
 ✅ Explore AI & ML integration in software development 

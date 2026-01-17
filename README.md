@@ -78,7 +78,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   
  <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   <a href="https://www.adobe.com/products/premiere.html" rel="nofollow"><img src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" height="40" data-canonical-src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-  <a href="https://www.canva.com/" rel="nofollow"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" height="40" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" style="max-width: 100%; height: auto; max-height: 40px;">  <a href="https://procreate.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+  <a href="https://www.canva.com/" rel="nofollow"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" height="40" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" style="max-width: 100%; height: auto; max-height: 40px;">  <a href="https://procreate.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   </a>
   <a href="https://picsart.com/" rel="nofollow"><img src="https://play-lh.googleusercontent.com/gRheGVxu9Ygc4lIc71bVSgjGNiZ8d-nraBqGFRm1SV-2CsD-byiqzt_8m8y8tJqyLXc" height="40" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 </p>
@@ -109,7 +109,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ✅ Build scalable full-stack applications with React, Vue, Node.js <br>
 ✅ Expand expertise in DevOps & CI/CD pipelines <br>
 ✅ Explore AI & ML integration in software development 
-✅ Trying do some Figma Projects
+
 ---
 
 ## 📬 Let's Connect:

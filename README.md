@@ -22,7 +22,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 <h3 align="center"> Working on projects pretty much every year, say hi 🤗 </h3>
 
-- 🔭 I’m currently working on final thesis (theme: Analysis of Usability and Accessibility of User Interface Elements)
+- 🔭 I’m seeking career development 
 - 🌱 Currently learning PHP, C++ and Java
 - 💬 Brainstorming ideas
 - 💡 Turning ideas into reality
@@ -77,7 +77,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <a href="https://www.adobe.com/products/premiere.html" rel="nofollow"><img src="https://camo.githubusercontent.com/5bcda7789abdcfe9f57fa94a1d87deccdc42fbb0bea1f88d61d207d26052e38b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34302f41646f62655f5072656d696572655f50726f5f43435f69636f6e2e737667" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a> -->
 
   
- <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="https://qualitytraining.be/en/training/office-tools/formation-adobe-en/photoshop-trainings/beginners/" height="40" data-canonical-src="https://qualitytraining.be/en/training/office-tools/formation-adobe-en/photoshop-trainings/beginners/" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+ <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   <a href="https://www.adobe.com/products/premiere.html" rel="nofollow"><img src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" height="40" data-canonical-src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   <a href="https://www.canva.com/" rel="nofollow"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" height="40" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   <a href="https://picsart.com/" rel="nofollow"><img src="https://play-lh.googleusercontent.com/gRheGVxu9Ygc4lIc71bVSgjGNiZ8d-nraBqGFRm1SV-2CsD-byiqzt_8m8y8tJqyLXc" height="40" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
@@ -90,7 +90,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
  <a href="https://trello.com/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" data-canonical-src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" alt="Trello" style="max-width: 100%; height: auto; max-height: 40px;"></a>   
   <a href="https://excel.cloud.microsoft/hr-hr/" rel="nofollow"><img src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" height="40" data-canonical-src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" alt="Excel" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
  <a href="https://www.notion.com/" rel="nofollow"><img src="https://www.logoshape.com/wp-content/uploads/2024/10/notion-logo_logoshape.png" height="40" data-canonical-src="https://www.logoshape.com/wp-content/uploads/2024/10/notion-logo_logoshape.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>  
-<a href="https://www.jenkins.io/" rel="nofollow"><img src="https://shastatek.com/jenkins" height="40" data-canonical-src="https://shastatek.com/jenkins" alt="Jenkins" style="max-width: 100%; height: auto; max-height: 40px;"></a>   
+<a href="https://www.jenkins.io/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/960px-Jenkins_logo.svg.png" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/960px-Jenkins_logo.svg.png" alt="Jenkins" style="max-width: 100%; height: auto; max-height: 40px;"></a>   
   <a href="https://bitbucket.org/product/" rel="nofollow"><img src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon-thumbnail.png" height="40" data-canonical-src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon-thumbnail.png" alt="BitBucket" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
     <a href="https://www.cypress.io/" rel="nofollow"><img src="https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress.png?fit=364%2C364&ssl=1" height="40" data-canonical-src="https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress.png?fit=364%2C364&ssl=1" alt="Cypress" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
   </p>

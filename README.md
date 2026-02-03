@@ -26,7 +26,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 - 🌱 Currently learning PHP, C++ and Java
 - 💬 Brainstorming ideas
 - 💡 Turning ideas into reality
-- 🎯 Software Developer, Quality Engineer and Front-End developer
+- 🎯 Software Developer, Quality Engineer and Front-End Developer
 - 👨‍💻 Open to Front-End Development or BA/QA jobs
 - 📫 petra.jakopovi@gmail.com
 - ⚡ Fun fact: I'm a deaf person with million hobbies

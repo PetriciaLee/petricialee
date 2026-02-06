@@ -35,7 +35,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ---
 
 ## 💻 Tech Stack:
-<h3> Software Development Languages and Tools </h3>
+<h3> Software Development Languages and Tools </h3> <!-- popraviti tako da bude flexibilno -->
 <p align="left">
   <a href="https://www.geeksforgeeks.org/html/html5-introduction/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   <a href="https://www.geeksforgeeks.org/css/css-tutorial/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="max-width: 100%; height: auto; max-height: 40px;"></a>
@@ -62,7 +62,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/langs/cpp.png" alt="C++" width="80" height="80"> -->
 </p>
 
-<h3> Data Analysis and Visualisation </h3>
+<h3> Data Analysis and Visualisation </h3> <!-- popraviti tako da bude flexibilno -->
 <p align="left">
  <a href="https://www.postgresql.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
  <a href="https://www.python.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="MySQL" style="max-width: 100%; height: auto; max-height: 40px;"></a> 

@@ -131,4 +131,5 @@ Building the future, one line at a time. <br>
 ╰┈─── ༺ ✧ ༻ ───┈╯     -->
 
 ---
-⠀⠀⠀
+
+![](https://komarev.com/ghpvc/?username=PetriciaLee&color=blue)

@@ -38,17 +38,17 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 <h3> Software Development Languages and Tools </h3> 
 
 <p align="left">
-  <a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin-right: 5px;"></a>
-  <a href="https://www.geeksforgeeks.org/css/css-tutorial/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="margin-right: 5px;"></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40" style="margin-right: 5px;"></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" style="margin-right: 5px;"></a>
-  <a href="https://brackets.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/500px-Brackets_Icon.svg.png" alt="Brackets" height="40" style="margin-right: 5px;"></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40" style="margin-right: 5px;"></a>
-  <a href="https://www.testrail.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=rWQ6Qj4WSwBn&format=png" alt="TestRail" height="40" style="margin-right: 5px;"></a>
-  <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-dreamweaver-icon.png" alt="Dreamweaver" height="40" style="margin-right: 5px;"></a>
-  <a href="https://notepad-plus-plus.org/" target="_blank"><img src="https://freesvg.org/img/1661420472npp.png" alt="Notepad++" height="40" style="margin-right: 5px;"></a>
-  <a href="https://nodejs.org/en" target="_blank"><img src="https://img.beget.com/cp/plain/shared/xoKELFIyHKF4-V5ZaKBvDC7xhOoZJW71/logo_nodejs2x.png@.webp" alt="NodeJS" height="40" style="margin-right: 5px;"></a>
-  <a href="https://wordpress.com/" target="_blank"><img src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" alt="WordPress" height="40" style="margin-right: 5px;"></a>
+<a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin-right: 5px;"></a>
+<a href="https://www.geeksforgeeks.org/css/css-tutorial/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="margin-right: 5px;"></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40" style="margin-right: 5px;"></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" style="margin-right: 5px;"></a>
+<a href="https://brackets.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/500px-Brackets_Icon.svg.png" alt="Brackets" height="40" style="margin-right: 5px;"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40" style="margin-right: 5px;"></a>
+<a href="https://www.testrail.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=rWQ6Qj4WSwBn&format=png" alt="TestRail" height="40" style="margin-right: 5px;"></a>
+<a href="https://www.adobe.com/products/dreamweaver.html" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-dreamweaver-icon.png" alt="Dreamweaver" height="40" style="margin-right: 5px;"></a>
+<a href="https://notepad-plus-plus.org/" target="_blank"><img src="https://freesvg.org/img/1661420472npp.png" alt="Notepad++" height="40" style="margin-right: 5px;"></a>
+<a href="https://nodejs.org/en" target="_blank"><img src="https://img.beget.com/cp/plain/shared/xoKELFIyHKF4-V5ZaKBvDC7xhOoZJW71/logo_nodejs2x.png@.webp" alt="NodeJS" height="40" style="margin-right: 5px;"></a>
+<a href="https://wordpress.com/" target="_blank"><img src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" alt="WordPress" height="40" style="margin-right: 5px;"></a>
 </p>
 
   
@@ -66,11 +66,10 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 <h3>Data Analysis and Visualisation</h3>
 
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" style="margin-right: 5px;"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="margin-right: 5px;"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" style="margin-right: 5px;"></a>
-</p>
+<a href="https://www.postgresql.org/" rel="nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+<a href="https://www.python.org/" rel="nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+<a href="https://www.mysql.com/" rel="nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%; height: auto; max-height: 40px;">  
+
 
 <h3> Video and Photo Editing </h3>
 <!-- <a href="https://www.blender.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/7fef542fba72854151304580324d0d6f6703d08442d7f05968b649b80a2d61ff/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30632f426c656e6465725f6c6f676f5f6e6f5f746578742e737667" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
@@ -84,18 +83,6 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   </a>
   <a href="https://picsart.com/" rel="nofollow" target="_blank"><img src="https://play-lh.googleusercontent.com/gRheGVxu9Ygc4lIc71bVSgjGNiZ8d-nraBqGFRm1SV-2CsD-byiqzt_8m8y8tJqyLXc" height="40" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 </p>
-
-<p align="left">
-<h3>Other Tools</h3>
-  <p align="left">
- <a href="https://www.atlassian.com/software/jira" rel="nofollow" target="_blank"><img src="https://www.logoshape.com/wp-content/uploads/2024/08/jira-logo_logoshape.com_.png" height="40" data-canonical-src="https://www.logoshape.com/wp-content/uploads/2024/08/jira-logo_logoshape.com_.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>    
- <a href="https://trello.com/" rel="nofollow" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" data-canonical-src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" alt="Trello" style="max-width: 100%; height: auto; max-height: 40px;"></a>   
-  <a href="https://excel.cloud.microsoft/hr-hr/" rel="nofollow" target="_blank"><img src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" height="40" data-canonical-src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" alt="Excel" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
- <a href="https://www.notion.com/" rel="nofollow" target="_blank"><img src="https://www.logoshape.com/wp-content/uploads/2024/10/notion-logo_logoshape.png" height="40" data-canonical-src="https://www.logoshape.com/wp-content/uploads/2024/10/notion-logo_logoshape.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>  
-<a href="https://www.jenkins.io/" rel="nofollow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/960px-Jenkins_logo.svg.png" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/960px-Jenkins_logo.svg.png" alt="Jenkins" style="max-width: 100%; height: auto; max-height: 40px;"></a>   
-  <a href="https://bitbucket.org/product/" rel="nofollow" target="_blank"><img src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon-thumbnail.png" height="40" data-canonical-src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon-thumbnail.png" alt="BitBucket" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
-    <a href="https://www.cypress.io/" rel="nofollow" target="_blank"><img src="https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress.png?fit=364%2C364&ssl=1" height="40" data-canonical-src="https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress.png?fit=364%2C364&ssl=1" alt="Cypress" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
-  </p>
     
 <!--  Soon: Python, Jupyter Notebooks, SQL, Azure, Tableau, Google Analytics, Apache Hadoop, Apache Spark, R, Power BI -->
 <h3>Other Tools</h3>
@@ -137,8 +124,8 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ---
 
 ╭┈─────── ༺ ✧ ༻ ───────┈╮ <br>
-Code. Debug. Create. Repeat. <br>
-Building the future, one line at a time. <br>
+        Code. Debug. Create. Repeat. <br>
+    Building the future, one line at a time. <br>
 ╰┈─────── ༺ ✧ ༻ ───────┈╯     
 
 ---

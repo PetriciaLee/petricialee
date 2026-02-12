@@ -37,7 +37,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ## 💻 Tech Stack:
 <h3> Software Development Languages and Tools </h3> 
 
-<p align="left">
+
 <a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin-right: 5px;"></a>
 <a href="https://www.geeksforgeeks.org/css/css-tutorial/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="margin-right: 5px;"></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40" style="margin-right: 5px;"></a>
@@ -49,7 +49,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 <a href="https://notepad-plus-plus.org/" target="_blank"><img src="https://freesvg.org/img/1661420472npp.png" alt="Notepad++" height="40" style="margin-right: 5px;"></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.beget.com/cp/plain/shared/xoKELFIyHKF4-V5ZaKBvDC7xhOoZJW71/logo_nodejs2x.png@.webp" alt="NodeJS" height="40" style="margin-right: 5px;"></a>
 <a href="https://wordpress.com/" target="_blank"><img src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" alt="WordPress" height="40" style="margin-right: 5px;"></a>
-</p>
+
 
   
  <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -66,9 +66,9 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 <h3>Data Analysis and Visualisation</h3>
 
-<a href="https://www.postgresql.org/" rel="nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://www.python.org/" rel="nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://www.mysql.com/" rel="nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%; height: auto; max-height: 40px;">  
+  <a href="https://www.postgresql.org/" rel="nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+  <a href="https://www.python.org/" rel="nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+  <a href="https://www.mysql.com/" rel="nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%; height: auto; max-height: 40px;">  
 
 
 <h3> Video and Photo Editing </h3>

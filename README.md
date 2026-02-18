@@ -41,7 +41,6 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 <a href="https://www.geeksforgeeks.org/css/css-tutorial/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="margin-right: 5px;"></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40" style="margin-right: 5px;"></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" style="margin-right: 5px;"></a>
-
 <a href="https://brackets.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/500px-Brackets_Icon.svg.png" alt="Brackets" height="40" style="margin-right: 5px;"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40" style="margin-right: 5px;"></a>
 <a href="https://www.testrail.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=rWQ6Qj4WSwBn&format=png" alt="TestRail" height="40" style="margin-right: 5px;"></a>

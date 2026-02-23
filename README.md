@@ -37,11 +37,16 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ## 💻 Tech Stack:
 <h3> Software Development Languages and Tools </h3> 
 
- <a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin-right: 5px;"></a>
- <a href="https://www.geeksforgeeks.org/css/css-tutorial/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="margin-right: 5px;"></a>
- <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40" style="margin-right: 5px;"></a>
- <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" style="margin-right: 5px;"></a>
-<a href="https://brackets.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/500px-Brackets_Icon.svg.png" alt="Brackets" height="40" style="margin-right: 5px;"></a>
+ <a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin-right: 5px;"></a>
+ <a href="https://www.geeksforgeeks.org/css/css-tutorial/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="margin-right: 5px;"></a>
+ <a href="https://www.figma.com/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40" style="margin-right: 5px;"></a>
+ <a href="https://www.php.net/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" style="margin-right: 5px;"></a>
+<a href="https://brackets.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/500px-Brackets_Icon.svg.png" alt="Brackets" height="40" style="margin-right: 5px;"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40" style="margin-right: 5px;"></a>
 <a href="https://www.testrail.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=rWQ6Qj4WSwBn&format=png" alt="TestRail" height="40" style="margin-right: 5px;"></a>
 <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-dreamweaver-icon.png" alt="Dreamweaver" height="40" style="margin-right: 5px;"></a>
@@ -111,8 +116,8 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ## 📬 Let's Connect:
 
-<p align="left">     🔗 Connect with me on <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank"> LinkedIn!
-  
+<p align="left">     🔗 Connect with me on LinkedIn!
+  <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" alt="LinkedIn" width="20" height="20"/>
   </a> <br>
   💼 Gmail: petra.jakopovi@gmail.com

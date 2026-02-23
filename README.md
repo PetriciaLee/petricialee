@@ -111,8 +111,8 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ## 📬 Let's Connect:
 
-<p align="left">     🔗 Connect with me on LinkedIn!
-  <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank">
+<p align="left">     🔗 Connect with me on <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank"> LinkedIn!
+  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" alt="LinkedIn" width="20" height="20"/>
   </a> <br>
   💼 Gmail: petra.jakopovi@gmail.com

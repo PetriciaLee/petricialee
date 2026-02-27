@@ -83,7 +83,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 </p>
     
 <!--  Soon: Python, Jupyter Notebooks, SQL, Azure, Tableau, Google Analytics, Apache Hadoop, Apache Spark, R, Power BI -->
-
+<!--
 
 ## 💻 Tech Stack:
 
@@ -117,6 +117,50 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <a href="https://procreate.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" height="40"></a>
   <a href="https://picsart.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Picsart_logo.png" height="40"></a>
 </p>
+-->
+## 💻 Tech Stack:
+
+### Software Development Languages and Tools
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://www.geeksforgeeks.org/html/html5-introduction/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"></a>
+      <a href="https://www.geeksforgeeks.org/css/css-tutorial/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40"></a>
+      <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40"></a>
+      <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40"></a>
+      <a href="https://brackets.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/500px-Brackets_Icon.svg.png" alt="Brackets" height="40"></a>
+      <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40"></a>
+      <a href="https://www.testrail.com/"><img src="https://img.icons8.com/?size=512&id=rWQ6Qj4WSwBn&format=png" alt="TestRail" height="40"></a>
+      <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-dreamweaver-icon.png" alt="Dreamweaver" height="40"></a>
+      <a href="https://notepad-plus-plus.org/"><img src="https://freesvg.org/img/1661420472npp.png" alt="Notepad++" height="40"></a>
+      <a href="https://nodejs.org/en"><img src="https://img.beget.com/cp/plain/shared/xoKELFIyHKF4-V5ZaKBvDC7xhOoZJW71/logo_nodejs2x.png@.webp" alt="NodeJS" height="40"></a>
+      <a href="https://wordpress.com/"><img src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" alt="WordPress" height="40"></a>
+    </td>
+  </tr>
+</table>
+
+### Data Analysis and Visualisation
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" height="40"></a>
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"></a>
+      <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"></a>
+    </td>
+  </tr>
+</table>
+
+### Video and Photo Editing
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" height="40"></a>
+      <a href="https://www.adobe.com/products/premiere.html"><img src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" height="40"></a>
+      <a href="https://www.canva.com/"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" height="40"></a>
+      <a href="https://procreate.com/"><img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" height="40"></a>
+    </td>
+  </tr>
+</table>
 
 <h3>Other Tools</h3>
 <p align="left">

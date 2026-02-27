@@ -87,7 +87,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ## 💻 Tech Stack:
 
-## Software Development Languages and Tools
+### Software Development Languages and Tools
 <p align="left">
   <a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"></a>
   <a href="https://www.geeksforgeeks.org/css/css-tutorial/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40"></a>
@@ -102,14 +102,14 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <a href="https://wordpress.com/" target="_blank"><img src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" alt="WordPress" height="40"></a>
 </p>
 
-## Data Analysis and Visualisation
+### Data Analysis and Visualisation
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" height="40"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"></a>
 </p>
 
-## Video and Photo Editing
+### Video and Photo Editing
 <p align="left">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" height="40"></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" height="40"></a>

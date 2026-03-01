@@ -153,8 +153,6 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   💼 Gmail: petra.jakopovi@gmail.com
 </p>
 
-<!--
--->
 ---
 
 ╭┈─────── ༺ ✧ ༻ ───────┈╮ <br>
@@ -164,4 +162,4 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ---
 
-![](https://komarev.com/ghpvc/?username=PetriciaLee&color=blue)
+![](https://komarev.com/ghpvc/?username=PetriciaLee&color=purple)

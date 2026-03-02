@@ -162,4 +162,4 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ---
 
-![](https://komarev.com/ghpvc/?username=PetriciaLee&color=purple)
+![](https://komarev.com/ghpvc/?username=PetriciaLee&color=blue)

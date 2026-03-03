@@ -35,7 +35,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ---
 
 
-<!--
+
 ## 💻 Tech Stack:
 <h3> Software Development Languages and Tools </h3> 
 <p align="left">
@@ -63,18 +63,18 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/langs/java.png" alt="Java" width="80" height="80" style="margin-right: 15px;">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/langs/cpp.png" alt="C++" width="80" height="80"> -->
-<!--
+
 <h3>Data Analysis and Visualisation</h3>
 <p align="left">
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" height="40" style="margin-right: 5px;"></a><a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="margin-right: 5px;"></a><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" style="margin-right: 5px;"></a>
 </p>
 
-<h3> Video and Photo Editing </h3> -->
+<h3> Video and Photo Editing </h3> 
 <!-- <a href="https://www.blender.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/7fef542fba72854151304580324d0d6f6703d08442d7f05968b649b80a2d61ff/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30632f426c656e6465725f6c6f676f5f6e6f5f746578742e737667" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
  <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="https://camo.githubusercontent.com/3943c801288c835b42b3777afcc77c6c82c6414b95fe890bf8f0be9f1f0e1dac/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61662f41646f62655f50686f746f73686f705f43435f69636f6e2e737667" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   <a href="https://www.adobe.com/products/premiere.html" rel="nofollow"><img src="https://camo.githubusercontent.com/5bcda7789abdcfe9f57fa94a1d87deccdc42fbb0bea1f88d61d207d26052e38b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34302f41646f62655f5072656d696572655f50726f5f43435f69636f6e2e737667" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a> -->
 
-  <!--
+
  <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   <a href="https://www.adobe.com/products/premiere.html" rel="nofollow" target="_blank"><img src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" height="40" data-canonical-src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
   <a href="https://www.canva.com/" rel="nofollow" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" height="40" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" style="max-width: 100%; height: auto; max-height: 40px;">  <a href="https://procreate.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>
@@ -115,7 +115,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" height="40"></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" height="40"></a>
   <a href="https://procreate.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" height="40"></a>
-  <a href="https://picsart.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Picsart_logo.png" height="40"></a>
+  <a href="https://picsart.com/" target="_blank"><img src="https://play-lh.googleusercontent.com/gRheGVxu9Ygc4lIc71bVSgjGNiZ8d-nraBqGFRm1SV-2CsD-byiqzt_8m8y8tJqyLXc" height="40"></a>
 </p>
 
 

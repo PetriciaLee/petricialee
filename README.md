@@ -34,9 +34,9 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ---
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
-#### Software Development Languages and Tools
+### Software Development Languages and Tools
 <p align="left">
   <a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin-right: 5px;"></a>
   <a href="https://www.geeksforgeeks.org/css/css-tutorial/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="margin-right: 5px;"></a>
@@ -62,14 +62,14 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/langs/java.png" alt="Java" width="80" height="80" style="margin-right: 15px;">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/langs/cpp.png" alt="C++" width="80" height="80"> -->
 
-#### Data Analysis and Visualisation
+### Data Analysis and Visualisation
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" height="40" style="margin-right: 5px;"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="margin-right: 5px;"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" style="margin-right: 5px;"></a>
 </p>
 
-#### Video and Photo Editing
+### Video and Photo Editing
 <p align="left">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" height="40"></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" height="40"></a>
@@ -95,20 +95,20 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 </p>
 
 
-### ⚡ Featured Software & Data Projects
+## ⚡Featured Software & Data Projects
 - [Music Catalog](https://github.com/PetriciaLee/music-catalog) - Solo project --> web application development (PHP).
 - [Odaks-app](https://github.com/PetriciaLee/odaks-app) - Private project for LUMEN Development hackathon 2025. (Teamwork)
 - [KingICT Ljetna akademija](https://github.com/PetriciaLee/KingICT.Academy2023) - Internship - Summer Academy 2023. - King ICT (Projects under NDA).
 ---
 
-### 🚀 Goals for 2026
+## 🚀 Goals for 2026
 ✅ Build scalable full-stack applications with React, Vue, Node.js <br>
 ✅ Expand expertise in DevOps & CI/CD pipelines <br>
 ✅ Explore AI & ML integration in software development 
 
 ---
 
-### 📬 Let's Connect:
+## 📬 Let's Connect:
 
 <p align="left">     🔗 Connect with me on LinkedIn!
   <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank">

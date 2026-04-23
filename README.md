@@ -114,13 +114,28 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ## 📬 Let's Connect:
 
-<p align="left">     🔗 Connect with me on LinkedIn!
-  <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank">
+<p align="left">     🔗 Connect with me on LinkedIn! <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" alt="LinkedIn" width="20" height="20"/>
   </a> <br>
   💼 Gmail: petra.jakopovi@gmail.com
 </p>
 
+---
+## My Stats:
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=161b22&title_color=d4a843&icon_color=d4a843&text_color=39d353&ring_color=d4a843)
+
+</div>
+
+## Activity On GitHub
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=161b22&ring=f0883e&fire=f0883e&currStreakLabel=f0883e&sideLabels=8b949e&dates=484f58&stroke=21262d&currStreakNum=e6edf3&sideNums=e6edf3&border=21262d)
+
+</div>
 ---
 
 ╭┈─────── ༺ ✧ ༻ ───────┈╮ <br>

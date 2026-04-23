@@ -114,8 +114,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ## 📬 Let's Connect:
 
-<p align="left">     🔗 Connect with me on LinkedIn! <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" alt="LinkedIn" width="20" height="20"/>
+<p align="left">     🔗 Connect with me on LinkedIn! <a href="https://www.linkedin.com/in/petra-jakopovic/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" alt="LinkedIn" width="20" height="20"/>
   </a> <br>
   💼 Gmail: petra.jakopovi@gmail.com
 </p>
@@ -125,7 +124,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=161b22&title_color=d4a843&icon_color=d4a843&text_color=39d353&ring_color=d4a843)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PetriciaLee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=161b22&title_color=d4a843&icon_color=d4a843&text_color=39d353&ring_color=d4a843)
 
 </div>
 
@@ -133,16 +132,34 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=161b22&ring=f0883e&fire=f0883e&currStreakLabel=f0883e&sideLabels=8b949e&dates=484f58&stroke=21262d&currStreakNum=e6edf3&sideNums=e6edf3&border=21262d)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PetriciaLee&theme=github-dark-blue&hide_border=true&background=161b22&ring=f0883e&fire=f0883e&currStreakLabel=f0883e&sideLabels=8b949e&dates=484f58&stroke=21262d&currStreakNum=e6edf3&sideNums=e6edf3&border=21262d)
 
 </div>
 ---
 
-╭┈─────── ༺ ✧ ༻ ───────┈╮ <br>
-        Code. Debug. Create. Repeat. <br>
-    Building the future, one line at a time. <br>
-╰┈─────── ༺ ✧ ༻ ───────┈╯     
+## Profile Views
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
+
+</div>
 ---
+
+## Top Repositorys
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=161b22&title_color=d4a843&icon_color=d4a843&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=161b22&title_color=d4a843&icon_color=d4a843&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_3&theme=github_dark&hide_border=true&bg_color=161b22&title_color=d4a843&icon_color=d4a843&text_color=c9d1d9" />
+</a>
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=PetriciaLee&color=blue)

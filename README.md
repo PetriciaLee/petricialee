@@ -139,7 +139,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ## Profile Views
 
-<div align="center">
+<div align="left">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PetriciaLee&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 

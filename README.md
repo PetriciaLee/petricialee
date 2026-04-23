@@ -162,4 +162,3 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=PetriciaLee&color=blue)

@@ -65,10 +65,10 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 
 ### AI Tools & Integration
 <p align="left">
-  <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Claude AI" height="40" style="margin-right: 5px;"></a>
-  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT" height="40" style="margin-right: 5px;"></a>
-  <a href="https://gemini.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="Gemini" height="40" style="margin-right: 5px;"></a>
-  <a href="https://www.microsoft.com/copilot" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_Copilot_Indicator.svg/1024px-Microsoft_Copilot_Indicator.svg.png" alt="Microsoft Copilot" height="40" style="margin-right: 5px;"></a>
+  <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://images.seeklogo.com/logo-png/55/2/claude-logo-png_seeklogo-554534.png" alt="Claude AI" height="40" style="margin-right: 5px;"></a>
+  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OpenAI_logo_2025_%28symbol%29.svg/250px-OpenAI_logo_2025_%28symbol%29.svg.png" alt="ChatGPT" height="40" style="margin-right: 5px;"></a>
+  <a href="https://gemini.google.com/" target="_blank"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SparkIcon_.max-1440x810.png" alt="Gemini" height="40" style="margin-right: 5px;"></a>
+  <a href="https://www.microsoft.com/copilot" target="_blank"><img src="https://its.unc.edu/wp-content/uploads/sites/337/2023/12/Microsoft_365_Copilot_Icon.png" alt="Microsoft Copilot" height="40" style="margin-right: 5px;"></a>
   <a href="https://www.harvey.ai/" target="_blank"><img src="https://img.icons8.com/?size=100&id=114322&format=png" alt="Harvey AI" height="40" style="margin-right: 5px;"></a>
 </p>
 
@@ -138,7 +138,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 </p>
 
 ---
-## My Stats:
+## My Stats: (Soon...)
 
 <div align="center">
 

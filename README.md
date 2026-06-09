@@ -62,6 +62,24 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/langs/java.png" alt="Java" width="80" height="80" style="margin-right: 15px;">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/langs/cpp.png" alt="C++" width="80" height="80"> -->
 
+
+### AI Tools & Integration
+<p align="left">
+  <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Claude AI" height="40" style="margin-right: 5px;"></a>
+  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT" height="40" style="margin-right: 5px;"></a>
+  <a href="https://gemini.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="Gemini" height="40" style="margin-right: 5px;"></a>
+  <a href="https://www.microsoft.com/copilot" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_Copilot_Indicator.svg/1024px-Microsoft_Copilot_Indicator.svg.png" alt="Microsoft Copilot" height="40" style="margin-right: 5px;"></a>
+  <a href="https://www.harvey.ai/" target="_blank"><img src="https://img.icons8.com/?size=100&id=114322&format=png" alt="Harvey AI" height="40" style="margin-right: 5px;"></a>
+</p>
+
+<!-- Skriveno dok učim: Cloud alati koje ću kasnije aktivirati 
+### Cloud Infrastructure (Učenju u tijeku)
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" style="margin-right: 5px;"></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="40" style="margin-right: 5px;"></a>
+</p>
+-->
+
 ### Data Analysis and Visualisation
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" height="40" style="margin-right: 5px;"></a>

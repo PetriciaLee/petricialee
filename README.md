@@ -66,6 +66,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 ### AI Tools & Integration
 <p align="left">
   <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://images.seeklogo.com/logo-png/55/2/claude-logo-png_seeklogo-554534.png" alt="Claude AI" height="40" style="margin-right: 5px;"></a>
+  <a href="https://x.ai/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-ai-icon.png" alt="Grok" height="40" style="margin-right: 5px;"></a>
   <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OpenAI_logo_2025_%28symbol%29.svg/250px-OpenAI_logo_2025_%28symbol%29.svg.png" alt="ChatGPT" height="40" style="margin-right: 5px;"></a>
   <a href="https://gemini.google.com/" target="_blank"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SparkIcon_.max-1440x810.png" alt="Gemini" height="40" style="margin-right: 5px;"></a>
   <a href="https://www.microsoft.com/copilot" target="_blank"><img src="https://its.unc.edu/wp-content/uploads/sites/337/2023/12/Microsoft_365_Copilot_Icon.png" alt="Microsoft Copilot" height="40" style="margin-right: 5px;"></a>

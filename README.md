@@ -71,6 +71,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <a href="https://gemini.google.com/" target="_blank"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SparkIcon_.max-1440x810.png" alt="Gemini" height="40" style="margin-right: 5px;"></a>
   <a href="https://www.microsoft.com/copilot" target="_blank"><img src="https://its.unc.edu/wp-content/uploads/sites/337/2023/12/Microsoft_365_Copilot_Icon.png" alt="Microsoft Copilot" height="40" style="margin-right: 5px;"></a>
   <a href="https://www.harvey.ai/" target="_blank"><img src="https://img.icons8.com/?size=100&id=114322&format=png" alt="Harvey AI" height="40" style="margin-right: 5px;"></a>
+  <a href="https://grok.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-ai-icon.png" alt="Grok" height="40" style="margin-right: 5px;"></a>
 </p>
 
 <!-- Skriveno dok učim: Cloud alati koje ću kasnije aktivirati 
@@ -92,9 +93,9 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 <p align="left">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" height="40"></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://images.seeklogo.com/logo-png/38/2/adobe-premiere-logo-png_seeklogo-380789.png" height="40"></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" height="40"></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D5622AQHz6_6iSpaxOw/feedshare-shrink_800/feedshare-shrink_800/0/1718482039648?e=2147483647&v=beta&t=Uw28RQrJJnESdsB9ROg6ey3rb5zOg7wbVnf9gR4YBSk" height="40"></a>
   <a href="https://procreate.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" height="40"></a>
-  <a href="https://picsart.com/" target="_blank"><img src="https://picsartpremiums.com.in/wp-content/uploads/2026/04/Picsart-mod-apk.webp" height="40"></a>
+  <a href="https://picsart.com/" target="_blank"><img src="https://logolook.net/wp-content/uploads/2022/11/Picsart-Logo.png" height="40"></a>
 </p>
 <!--
 <a href="https://www.blender.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/7fef542fba72854151304580324d0d6f6703d08442d7f05968b649b80a2d61ff/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30632f426c656e6465725f6c6f676f5f6e6f5f746578742e737667" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
@@ -124,7 +125,7 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
 - [KingICT Ljetna akademija](https://github.com/PetriciaLee/KingICT.Academy2023) - Internship - Summer Academy 2023. - King ICT (Projects under NDA).
 ---
 
-## 🚀 Goals for 2026
+## 🚀 Goals for 2026 & 2027
 ✅ Build scalable full-stack applications with React, Vue, Node.js <br>
 ✅ Expand expertise in DevOps & CI/CD pipelines <br>
 ✅ Explore AI & ML integration in software development 

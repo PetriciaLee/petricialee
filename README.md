@@ -114,8 +114,8 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <a href="https://excel.cloud.microsoft/" target="_blank"><img src="https://www.pngfind.com/pngs/m/678-6786442_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png" alt="Excel" height="40" style="margin-right: 5px;"></a>
   <a href="https://www.notion.com/" target="_blank"><img src="https://www.logoshape.com/wp-content/uploads/2024/10/notion-logo_logoshape.png" alt="Notion" height="40" style="margin-right: 5px;"></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/960px-Jenkins_logo.svg.png" alt="Jenkins" height="40" style="margin-right: 5px;"></a>
-  <a href="https://bitbucket.org/product/" target="_blank"><img src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon-thumbnail.png" alt="BitBucket" height="40" style="margin-right: 5px;"></a>
-  <a href="https://www.cypress.io/" target="_blank"><img src="https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress.png?fit=364%2C364&ssl=1" alt="Cypress" height="40" style="margin-right: 5px;"></a>
+<a href="https://bitbucket.org/product/" target="_blank"><img src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon-thumbnail.png" alt="BitBucket" height="40" style="margin-right: 5px;"></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress.png?fit=364%2C364&ssl=1" alt="Cypress" height="40" style="margin-right: 5px;"></a>
 </p>
 
 ---

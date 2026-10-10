@@ -95,6 +95,8 @@ welcome to my source code, pls excuse the mess ฅ^•ﻌ•^ฅ-->
   <a href="https://www.canva.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" height="40"></a>
   <a href="https://procreate.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" height="40"></a>
   <a href="https://picsart.com/" target="_blank"><img src="https://logolook.net/wp-content/uploads/2022/11/Picsart-Logo.png" height="40"></a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1280px-DaVinci_Resolve_17_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="40"></a>
+
 </p>
 <!--
 <a href="https://www.blender.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/7fef542fba72854151304580324d0d6f6703d08442d7f05968b649b80a2d61ff/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30632f426c656e6465725f6c6f676f5f6e6f5f746578742e737667" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a> 
